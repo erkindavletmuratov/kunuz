@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+
+    list-style: none;
+    font-size: 20px;
+    color: white;
+}
+
+
+a {
+
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+h1,ul,li  {
+    display: inline-block;
+    margin: 10px;
+   
+    
+}
+
+div {
+    vertical-align: center;
+    background-color: black;
+}
+
+h3 {
+    background-image: url(./kun.uz.jpg);
+    height: 700px;
+    width: 800px;
+    color: black;
+    background-repeat: no-repeat;
+}
+
+.boshqa1 {
+    color: black;
+   
+}
+
+p {
+    font-size: 24px;
+}
